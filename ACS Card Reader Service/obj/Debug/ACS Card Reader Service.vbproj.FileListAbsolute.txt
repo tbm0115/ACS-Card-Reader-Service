@@ -1,0 +1,14 @@
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\bin\Debug\ACS Card Reader Service.exe.config
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\bin\Debug\ACS Card Reader Service.exe
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\bin\Debug\ACS Card Reader Service.pdb
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\bin\Debug\ACS Card Reader Service.xml
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\obj\Debug\ACS_Card_Reader_Service.ACSCardReaderService.resources
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\obj\Debug\ACS_Card_Reader_Service.Resources.resources
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\obj\Debug\ACS_Card_Reader_Service.ProjectInstaller.resources
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\obj\Debug\ACS Card Reader Service.vbproj.GenerateResource.Cache
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\obj\Debug\ACS Card Reader Service.exe
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\obj\Debug\ACS Card Reader Service.xml
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\obj\Debug\ACS Card Reader Service.pdb
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\bin\Debug\Install.bat
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\bin\Debug\Uninstall.bat
+C:\Users\Trais\Documents\Visual Studio 2010\Projects\ACS Card Reader Service\ACS Card Reader Service\bin\Debug\Readme.txt
